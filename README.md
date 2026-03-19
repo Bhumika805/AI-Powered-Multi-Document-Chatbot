@@ -46,7 +46,7 @@ AI-Powered-Multi-Document-Chatbot/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Powered-Multi-Document-Chatbot.git
+https://github.com/Bhumika805/AI-Powered-Multi-Document-Chatbot.git
 cd AI-Powered-Multi-Document-Chatbot
 2️⃣ Create virtual environment
 python -m venv venv
